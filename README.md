@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/LtxC5K0cNlWYvNpDc4/giphy.gif" width="750" />
+  <img src="https://media4.giphy.com/media/LtxC5K0cNlWYvNpDc4/giphy.gif" width="300" />
 </p>
 
 <p align="center">
@@ -17,26 +17,25 @@
 <hr/>
 
 <h3 align="center">
-  <font color="#ff5adf">👾🎨 My Tech & Art Stack:</font><br>
-  <img src="https://media1.giphy.com/media/Zo07ZvRizeKZf0tTD3/giphy.gif" width="180">
+  <font color="#ff5adf">👾🎨 My Tech & Art Stack:</font>
 </h3>
 
 <p align="center">
 
-  <strong><font color="#6ef2ff">👾 Programming & Security (Intermediate ⭐⭐)</font></strong><br>
+  <strong><font color="#6ef2ff">👾 Programming & Security (Intermediate ⭐⭐)</font> <img src="https://media1.giphy.com/media/l4pTcR161O7e79lHa/giphy.gif?cid=ecf05e47858c70f803f2e4630a91630113c241512411516f&rid=giphy.gif&ct=s" width="25"></strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Network_Security-2D3436?style=for-the-badge&logo=HackTheBox&logoColor=white"/>
 
   <br><br>
 
-  <strong><font color="#ff5adf">🐧 Linux Systems (Intermediate ⭐⭐)</font></strong><br>
+  <strong><font color="#ff5adf">🐧 Linux Systems (Intermediate ⭐⭐)</font> <img src="https://media1.giphy.com/media/l4pTcR161O7e79lHa/giphy.gif?cid=ecf05e47858c70f803f2e4630a91630113c241512411516f&rid=giphy.gif&ct=s" width="25"></strong><br>
   <img src="https://img.shields.io/badge/KALI_LINUX-5C5B5C?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/FEDORA-555555?style=for-the-badge&logo=fedora&logoColor=white"/>
 
   <br><br>
 
-  <strong><font color="#b86bff">🎀 Digital Art & Design (Expert ⭐⭐⭐)</font></strong><br>
+  <strong><font color="#b86bff">🎀 Digital Art & Design (Expert ⭐⭐⭐)</font> <img src="https://media1.giphy.com/media/l4pTcR161O7e79lHa/giphy.gif?cid=ecf05e47858c70f803f2e4630a91630113c241512411516f&rid=giphy.gif&ct=s" width="25"></strong><br>
   <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/AUTODESK_MAYA-000000?style=for-the-badge&logo=maya&logoColor=white"/>
