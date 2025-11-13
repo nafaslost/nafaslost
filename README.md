@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/LtxC5K0cNlWYvNpDc4/giphy.gif" width="260" />
+  <img src="https://media4.giphy.com/media/LtxC5K0cNlWYvNpDc4/giphy.gif" width="750" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
   <strong><font color="#ff5adf">🐧 Linux Systems (Intermediate ⭐⭐)</font> <img src="https://media1.giphy.com/media/Zo07ZvRizeKZf0tTD3/giphy.gif" width="30"></strong><br>
   <img src="https://img.shields.io/badge/KALI_LINUX-5C5B5C?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.io/badge/FEDORA-555555?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FEDORA-555555?style=for-the-badge&logo=fedora&logoColor=white"/>
 
   <br><br>
 
