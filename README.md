@@ -1,6 +1,6 @@
 <h1 align="center">
-  <font color="#d68bff">💜 A Lazy Unemployed Girl’s Profile</font><br/>
-  <font color="#6ef2ff">The Arch & Kali Sweetheart 🐧</font>
+  <font color="#ff5adf">🎀💕 A Lazy Unemployed Girl</font><br/>
+  <font color="#6ef2ff">✨ The Arch & Kali Sweetheart 🐧</font>
 </h1>
 
 <p align="center">
@@ -9,22 +9,23 @@
 
 <p align="center">
   <font color="#d68bff">
-    ☂️ This is the cozy neon corner of an ENFP who loves excitement and building cool stuff!  
-    (Yeah… I'm a tiny bit lazy, but absolutely unstoppable when a new Kali update drops 😉)
+    ☂️ Welcome to my neon-coded corner —  
+    a cozy chaotic place powered by ENFP energy, caffeine, and late-night Linux magic.  
+    (lazy 99% of the time… except when a Kali update drops 😌⚡)
   </font>
 </p>
 
 <hr/>
 
 <h3 align="center">
-  <font color="#ff5adf">👑💫 My Tech & Art Stack:</font>
+  <font color="#ff5adf">👑💫 My Tech & Art Stack</font>
 </h3>
 
 <table align="center">
   <tr>
-    <!-- ستون چپ: متن‌ها و بَج‌ها -->
+    <!-- ستون چپ -->
     <td valign="top">
-      <p align="center">
+      <p>
 
         <strong><font color="#6ef2ff">👾 Programming & Security (Intermediate ⭐⭐)</font></strong><br/>
         <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -47,8 +48,8 @@
       </p>
     </td>
 
-    <!-- ستون راست: مکعب نئونی -->
-    <td valign="middle">
+    <!-- ستون راست: مکعب -->
+    <td valign="middle" align="center">
       <img src="https://media1.giphy.com/media/Zo07ZvRizeKZf0tTD3/giphy.gif" width="170" />
     </td>
   </tr>
@@ -57,7 +58,7 @@
 <hr/>
 
 <h3 align="center">
-  <font color="#6ef2ff">📊 My GitHub Stats (Omni Theme)</font>
+  <font color="#6ef2ff">📊 My GitHub Stats</font>
 </h3>
 
 <p align="center">
